@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>个人主页</title>
+<link href="changyong.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="daohang_height">
+  <div class="width-1200 margin-auto">
+    <div class="daohang margin-auto">
+      <div class="daohang_r "> <a class="fenxiang"><img src="images/fenxiang1.png"></a> <a class="fenxiang"><img src="images/fenxiang2.png"></a> <a class="fenxiang"><img src="images/fenxiang3.png"></a>
+        <form action="#">
+          <h2 class="fl hui">Giii</h2>
+          <input class="fl hui" type="text" name="firstname" value="Home">
+          <input type="image" src="images/xiala.png" alt="Submit" id="a"/>
+        </form>
+      </div>
+      <h1 class="logo"></h1>
+    </div>
+  </div>
+</div>
+<div class="se1_height">
+  <div class="width-1200 margin-auto paning beijing" style="background-image: url(images/benjing.png)">
+    <div class="se1_l fl ">
+      <div class="se1_l_t">
+      
+      </div>
+      <div class="se1_l_b"></div>
+    </div>
+    <div class="se1_r fl">
+      <div class="se1_r_t"></div>
+      <ul class="se1_r_b">
+        <li class="fl" style="margin-left:0px; background-image:url(images/beiban1.jpg)"><h3 style="color:#FFF;">THIS WEEK’S</h3> <h3 style="color:#FFF;">SUOER STYLE！
+        </h3><p style="color:#FF3; font-family:'微软雅黑'; margin-top:6px; font-size:16px">William Henry Perkin</p>
+        <p style="color: #FFF; font-family: 'Lucida Console', Monaco, monospace; margin-top:6px; font-size:18px">Do you know aniline violet?</p>
+<a style="margin-top:10px; margin-left:26px;" href="#">VIEW</a>
+        </li>
+        <li class="fl" style="background-image:url(images/beiban2.jpg)">
+        <h3 style="color:#FF3;">March 12, 1838</h3> <h3 style="color:#FF3;">- July 14, 1907
+        </h3>
+        <p style="color: #FFF; font-family: 'Lucida Console', Monaco, monospace; margin-top:15px; font-size:18px">Do you know what March 12 is...?</p>
+        </li>
+        <li class="fl" style="margin-left:0px; background-image:url(images/beiban3.jpg)">
+        <p style="color:#FF3; font-family:'微软雅黑'; margin-top:6px; font-size:16px">In 1874 he was wealthy,</p>
+        <p style="color: #FFF; font-family: 'Lucida Console', Monaco, monospace; margin-top:6px; font-size:18px">sold his factory and retired.</p>
+        </li>
+        <li class="fl" style="background-image:url(images/beiban4.jpg)">
+        </h3> <h3 style="color: #F90;">SUOER STYLE！</h3>
+        <p style="color: #000; font-family: 'Lucida Console', Monaco, monospace; margin-top:15px; font-size:18px">sold his factory and retired.</p>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+        <div class="se2_l fl"style=" position:relative; top:-8px; ">
+        <div class="se2_l_l fr">
+        <h2 style="font-size:26px; color:#360">Cool life</h2>
+        <p style=" color: #e7f983;font-family: Arial, Helvetica, sans-serif; margin-top:6px; font-size:20px ">18-year-old peak of life</p>
+        <p style=" color: #fff; font-family: 'Lucida Console', Monaco, monospace; font-size:22px ">Financial wealth</p>
+         <p style=" color: #000; font-family: 'Comic Sans MS', cursive; margin-top:6px; font-size:14px; ">15-year-old Royal College of Chemistry in London</p>
+         <p style=" color: #000; font-family: 'Comic Sans MS', cursive; font-size:14px; ">18 years old found aniline violet</p>
+          <p style=" color: #000; font-family: 'Comic Sans MS', cursive; font-size:14px; ">31-year-old discovered the commercial production method of alizarin</p>
+         <a style="margin-top:10px;" href="#">VIEW</a>
+        </div>
+        </div>
+        <div class="se2_r fr"style=" position:relative; top:-8px; ">
+        <div class="se2_r_r fl">
+        <h2 style="font-size:26px; color:#fff">Today is the 180th anniversary of his birth</h2>
+        <p style=" color: #e7f983;font-family: Arial, Helvetica, sans-serif; margin-top:6px; font-size:20px ">In honor of the discovery of aniline violet</p>
+        <p style=" color: #fff; font-family: 'Lucida Console', Monaco, monospace; font-size:22px ">and sos</p>
+         <p style=" color: #000; font-family: 'Comic Sans MS', cursive; margin-top:6px; font-size:14px; ">I wrote this page,</p>
+         <p style=" color: #000; font-family: 'Comic Sans MS', cursive; font-size:14px; ">save it as my assignment.</p>
+        <a style="margin-top:48px;" href="#">VIEW</a>
+        </div></div>
+        </div>
+</div>
+<div class="dibu_height black-bg"style=" position:relative; top:-32px; ">
+  <div class="width-1200 hui margin-auto dibu" ><p style=" text-align:center; font-size:12px;">This page was last modified at 17:47, Monday, March 12, 2018.</p> </div>
+</div>
+</body>
+</html>
